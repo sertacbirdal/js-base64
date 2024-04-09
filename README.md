@@ -1,5 +1,4 @@
 [![CI via GitHub Actions](https://github.com/dankogai/js-base64/actions/workflows/node.js.yml/badge.svg)](https://github.com/dankogai/js-base64/actions/workflows/node.js.yml)
-
 # base64.js
 
 Yet another [Base64] transcoder.
